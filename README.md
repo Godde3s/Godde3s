@@ -1,28 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title> @zolmam </title>
-  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700&family=Montserrat:wght@500&display=swap" rel="stylesheet">
-  <style>
-    body {
-      margin: 0;
-      padding: 0;
-      background: linear-gradient(45deg, #000000, #0f0f0f, #121212);
-      background-size: 400% 400%;
-      animation: gradientBG 20s ease infinite;
-      color: #fff;
-      font-family: 'Montserrat', sans-serif;
-      text-align: center;
-      padding: 3rem;
-    }
-    @keyframes gradientBG {
-      0% { background-position: 0% 50%; }
-      50% { background-position: 100% 50%; }
-      100% { background-position: 0% 50%; }
-    }
-    h1 {
-      font-family: 'Orbitron', sans-serif;
       font-size: 4rem;
       letter-spacing: 4px;
       text-shadow: 0 0 20px #00ffe7, 0 0 40px #00ffe7;
