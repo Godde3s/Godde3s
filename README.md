@@ -96,5 +96,5 @@
     <img alt="C Sharp" src=" https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
     <img alt="Kali-User" src=" https://img.shields.io/badge/Kali%20Linux-%23E9B949.svg?style=for-the-badge&logo=kali-linux&logoColor=black"/>
   </div>
-</body>
+</body> 
 </html>
