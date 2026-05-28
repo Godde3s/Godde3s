@@ -1,83 +1,173 @@
-<h1 align="center">👨‍💻 MR YOUSEF</h1>
-<h3 align="center">Cyber Security | Physical Pentesting | Full-Stack Developer</h3>
+<h1 align="center">👨‍💻 Mr . Usf</h1>
+<h3 align="center">Full-Stack & AI Specialist | PLC Programmer | Cyber Security Researcher</h3>
 
 <p align="center">
-  A passionate <strong>cybersecurity specialist</strong> and <strong>software developer</strong> with a love for hacking, building, and breaking systems — all in the name of learning and improvement.
+  <a href="https://t.me/ZENDANBAN_BOT"><img src="https://img.shields.io/badge/Telegram-@ZENDANBAN__BOT-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>
+  <a href="https://github.com/godde3s"><img src="https://img.shields.io/badge/GitHub-godde3s-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=godde3s&label=Profile+Views&color=8b5cf6&style=flat-square" alt="godde3s" />
 </p>
 
 ---
 
-### 🧠 Core Competencies
+### 🧬 About Me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Cyber_Security--Specialist-FF0000?style=for-the-badge&logo=shield&logoColor=white" alt="Cyber Security Specialist" />
-  <img src="https://img.shields.io/badge/Web_Developer-27AE60?style=for-the-badge&logo=html5&logoColor=white" alt="Web Developer" />
-  <img src="https://img.shields.io/badge/App_Developer-3498DB?style=for-the-badge&logo=android&logoColor=white" alt="App Developer" />
-  <img src="https://img.shields.io/badge/Psychic--Genius-9B59B6?style=for-the-badge&logo=brain&logoColor=white" alt="Psychic Genius" />
-</p>
+> *"A low/moderate psychic genius in all other branches of programming and hacking."*
 
-> <p align="center"><em>"A low/moderate psychic genius in all other branches of programming and hacking."</em></p>
+I am a **generalist who dives deep**. My work exists at the intersection of **modern web technologies**, **artificial intelligence**, and **industrial automation**. Whether I'm architecting scalable cross-platform systems, developing NLP/Generative AI models, or programming PLCs for industrial processes, I approach every challenge with the mindset of a security researcher: *curious in all fields, dangerous in many.*
+
+Beyond code, I research **cognitive psychology**, **social engineering**, **history**, **logic**, and **philosophy** to better understand the human systems that technology serves.
 
 ---
 
-### 🔧 Expertise
+### 🚀 Core Competencies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Physical_Pentesting-FF6B00?style=for-the-badge&logo=lock&logoColor=white" alt="Physical Pentesting" />
-  <img src="https://img.shields.io/badge/Web_Pentesting-DC3545?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Web Penetration" />
-  <img src="https://img.shields.io/badge/Social_Engineering-0D6EFD?style=for-the-badge&logo=redteam&logoColor=white" alt="Social Engineering" />
-  <img src="https://img.shields.io/badge/Reverse_Engineering-6F42C1?style=for-the-badge&logo=veracode&logoColor=white" alt="Reverse Engineering" />
-  <img src="https://img.shields.io/badge/Generalist-20C997?style=for-the-badge&logo=brain&logoColor=white" alt="Generalist" />
+  <img src="https://img.shields.io/badge/Full--Stack_Web_&_App-8B5CF6?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Specialist_(NLP_/_GenAI)-EC4899?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/PLC_Programmer_(LD_&_ST)-F59E0B?style=for-the-badge&logo=siemens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cyber_Security_Researcher-EF4444?style=for-the-badge&logo=kalilinux&logoColor=white" />
 </p>
 
 ---
 
-### 💻 Languages & Frameworks
+### 💻 Languages & Databases
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript_/_TypeScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/LD_(Ladder_Diagram)-F59E0B?style=flat-square&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/ST_(Structured_Text)-F59E0B?style=flat-square&logo=codeforces&logoColor=white" />
 </p>
 
 ---
 
-### 🛠️ Tools & OS
+### 🛠️ Frameworks & Ecosystem
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-E9B949?style=for-the-badge&logo=kali-linux&logoColor=black" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Metasploit-FF6347?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Burp_Suite-1E90FF?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Nmap-31859C?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Nikto-FF0000?style=for-the-badge&logo=owasp&logoColor=white" alt="Nikto" />
-  <img src="https://img.shields.io/badge/SET-F05032?style=for-the-badge&logo=security-tub&logoColor=white" alt="Social Engineer Toolkit" />
-  <img src="https://img.shields.io/badge/Wireshark-0088CC?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>🎨 Frontend</strong><br/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
+    </td>
+    <td valign="top" width="50%">
+      <strong>📱 Mobile</strong><br/>
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <strong>🖥️ Desktop</strong><br/>
+      <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black" />
+      <img src="https://img.shields.io/badge/WPF_/_MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+    </td>
+    <td valign="top">
+      <strong>⚙️ Backend</strong><br/>
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Go_Gin_/_Fiber-00ADD8?style=flat-square&logo=go&logoColor=white" />
+      <img src="https://img.shields.io/badge/C%2B%2B_REST_APIs-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <strong>🗄️ Database</strong><br/>
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+    </td>
+    <td valign="top">
+      <strong>🧠 AI / ML</strong><br/>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### ⚙️ Tools & Environment
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/WSL2_Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Webpack_/_Vite-8DD6F9?style=flat-square&logo=webpack&logoColor=black" />
+  <img src="https://img.shields.io/badge/npm_/_yarn-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_CLI-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-FF6347?style=flat-square&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
 </p>
 
 ---
 
-### 🧠 Philosophy
+### 🧠 Research & Interests
 
-> "I'm a **generalist** who dives deep — curious in all fields, dangerous in many."
+> *"I thrive on challenges that blur the line between software and the real world."*
 
-Whether it's bypassing physical security, writing secure code, or reverse engineering firmware, I thrive on challenges that blur the line between software and the real world.
+| Domain | Focus Areas |
+| :--- | :--- |
+| 🔐 **Cyber Security** | Physical Pentesting, Social Engineering, Reverse Engineering |
+| 🧩 **Cognitive Psychology** | Behavioral Analysis, Social Engineering Patterns |
+| 🏛️ **History & Philosophy** | Civilizations, Logic Systems, Critical Analysis |
+| ♟️ **Chess** | Strategic Thinking, Problem Solving |
+| 🏭 **Industrial Automation** | PLC Programming (LD & ST / IEC 61131-3) |
+
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=godde3s&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=8b5cf6&icon_color=ec4899&text_color=e4e4e7" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=godde3s&theme=tokyonight&hide_border=true&background=000000&ring=8b5cf6&fire=ec4899&currStreakLabel=8b5cf6" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godde3s&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=8b5cf6&text_color=e4e4e7&langs_count=8" alt="Top Languages" />
+</p>
 
 ---
 
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="https://t.me/zendanban_bot" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  <a href="https://t.me/ZENDANBAN_BOT" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-@ZENDANBAN__BOT-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Send_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="Footer waving capsule" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 </p>
