@@ -9,6 +9,18 @@
 
 ---
 
+### 🏆 Featured Builds — Start Here
+
+| # | Project | What it proves |
+|---|---------|----------------|
+| 1 | [![Goftego](https://img.shields.io/badge/💬_Goftego-Self--hosted_chat_platform-4facfe?style=for-the-badge)](https://github.com/Godde3s/goftego) | Full-stack product: Node.js API + realtime WebSockets + Vue 3 SPA + SQLite + Docker, bilingual fa/en RTL |
+| 2 | [![VeilChat](https://img.shields.io/badge/🔒_VeilChat-P2P_E2E_messenger-667eea?style=for-the-badge)](https://github.com/Godde3s/veilchat) | Cryptographic engineering: X25519 handshake, ChaCha20-Poly1305, forward secrecy — in auditable pure Python |
+| 3 | [![BaleForge](https://img.shields.io/badge/🤖_BaleForge-Bale_bot_framework-f5576c?style=for-the-badge)](https://github.com/Godde3s/baleforge) | Framework design: async core, filters, FSM, middleware + AI agent bridge for any OpenAI-compatible endpoint |
+
+> Also fresh: [Snaplink](https://github.com/Godde3s/snaplink) (Next.js full-stack) · [HabitGrid](https://github.com/Godde3s/habitgrid) (Expo app) · [BalePhp](https://github.com/Godde3s/bale-php) (PHP/Laravel SDK) · [ModbusLite](https://github.com/Godde3s/modbuslite) (Modbus TCP for .NET)
+
+---
+
 ### 🧬 About Me
 
 > *"A low/moderate psychic genius in all other branches of programming and hacking."*
