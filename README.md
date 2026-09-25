@@ -1,33 +1,35 @@
-<h1 align="center">👨‍💻 Mr . Usf</h1>
-<h3 align="center">Full-Stack & AI Specialist | PLC Programmer | Cyber Security Researcher</h3>
+<h1 align="center">Reza Bazdar · Godde3s</h1>
+<h3 align="center">Full-Stack Engineer · AI & API Infrastructure · Industrial Automation</h3>
 
 <p align="center">
-  <a href="https://t.me/ZENDANBAN_BOT"><img src="https://img.shields.io/badge/Telegram-@ZENDANBAN__BOT-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>
-  <a href="https://github.com/godde3s"><img src="https://img.shields.io/badge/GitHub-godde3s-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://godde3s.github.io/OR/"><img src="https://img.shields.io/badge/Portfolio-OR-0ea5e9?style=for-the-badge" alt="OR portfolio" /></a>
+  <a href="https://godde3s.github.io/Usf/"><img src="https://img.shields.io/badge/Portfolio-Usf-8b5cf6?style=for-the-badge" alt="Usf portfolio" /></a>
+  <a href="https://github.com/godde3s"><img src="https://img.shields.io/badge/GitHub-godde3s-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=godde3s&label=Profile+Views&color=8b5cf6&style=flat-square" alt="godde3s" />
 </p>
 
 ---
 
-### 🏆 Featured Builds — Start Here
+### 🏆 Featured Builds — every one of them runs
 
-| # | Project | What it proves |
-|---|---------|----------------|
-| 1 | [![Goftego](https://img.shields.io/badge/💬_Goftego-Self--hosted_chat_platform-4facfe?style=for-the-badge)](https://github.com/Godde3s/goftego) | Full-stack product: Node.js API + realtime WebSockets + Vue 3 SPA + SQLite + Docker, bilingual fa/en RTL |
-| 2 | [![VeilChat](https://img.shields.io/badge/🔒_VeilChat-P2P_E2E_messenger-667eea?style=for-the-badge)](https://github.com/Godde3s/veilchat) | Cryptographic engineering: X25519 handshake, ChaCha20-Poly1305, forward secrecy — in auditable pure Python |
-| 3 | [![BaleForge](https://img.shields.io/badge/🤖_BaleForge-Bale_bot_framework-f5576c?style=for-the-badge)](https://github.com/Godde3s/baleforge) | Framework design: async core, filters, FSM, middleware + AI agent bridge for any OpenAI-compatible endpoint |
+| Project | What it proves |
+|---|---|
+| [![TaskFlow API](https://img.shields.io/badge/⚙️_TaskFlow_API-FastAPI_backend-009688?style=for-the-badge)](https://github.com/Godde3s/taskflow-api) | Production-grade REST backend — JWT rotation with reuse detection, RBAC, rate limiting, pytest suite, Docker Compose |
+| [![OmniRouter](https://img.shields.io/badge/🌐_OmniRouter-Go_model_router-00ADD8?style=for-the-badge)](https://github.com/Godde3s/omnirouter) | One OpenAI-compatible endpoint over GLM + Qwen + DeepSeek + custom APIs — load balancing, failover, streaming |
+| [![Goftego](https://img.shields.io/badge/💬_Goftego-chat_platform-4facfe?style=for-the-badge)](https://github.com/Godde3s/goftego) | Full-stack product: Node.js API + realtime WebSockets + Vue 3 SPA + SQLite + Docker, bilingual RTL |
+| [![VeilChat](https://img.shields.io/badge/🔒_VeilChat-P2P_E2E_messenger-667eea?style=for-the-badge)](https://github.com/Godde3s/veilchat) | Cryptographic engineering: X25519 handshake, ChaCha20-Poly1305, forward secrecy — auditable pure Python |
+| [![Postman Toolkit](https://img.shields.io/badge/🧪_Postman_Toolkit-API_testing-FF6C37?style=for-the-badge)](https://github.com/Godde3s/postman-api-testing-toolkit) | Postman mastery: chained CRUD contracts, HMAC request signing, data-driven runs, Newman CI reports |
+| [![TextSense](https://img.shields.io/badge/🧠_TextSense-NLP_microservice-EE4C2C?style=for-the-badge)](https://github.com/Godde3s/textsense) | ML meets production: transformer backend + deterministic fallback, batch inference, Prometheus metrics |
 
-> Also fresh: [Snaplink](https://github.com/Godde3s/snaplink) (Next.js full-stack) · [HabitGrid](https://github.com/Godde3s/habitgrid) (Expo app) · [BalePhp](https://github.com/Godde3s/bale-php) (PHP/Laravel SDK) · [ModbusLite](https://github.com/Godde3s/modbuslite) (Modbus TCP for .NET)
+> Also worth a look: [BaleForge](https://github.com/Godde3s/baleforge) (async bot framework) · [Snaplink](https://github.com/Godde3s/snaplink) (Next.js + Prisma) · [HabitGrid](https://github.com/Godde3s/habitgrid) (Expo app) · [BalePhp](https://github.com/Godde3s/bale-php) (PHP/Laravel SDK) · [NetPilot](https://github.com/Godde3s/netpilot) (single-binary Go network toolkit) · [ModbusLite](https://github.com/Godde3s/modbuslite) (Modbus TCP for .NET 8)
 
 ---
 
 ### 🧬 About Me
 
-> *"A low/moderate psychic genius in all other branches of programming and hacking."*
+I'm a **generalist who dives deep**. My work sits at the intersection of **modern web engineering**, **AI infrastructure** and **industrial automation**. I architect cross-platform systems, build NLP/GenAI services, program PLCs — and I approach every problem with a security researcher's mindset: threat-model first, then build.
 
-I am a **generalist who dives deep**. My work exists at the intersection of **modern web technologies**, **artificial intelligence**, and **industrial automation**. Whether I'm architecting scalable cross-platform systems, developing NLP/Generative AI models, or programming PLCs for industrial processes, I approach every challenge with the mindset of a security researcher: *curious in all fields, dangerous in many.*
-
-Beyond code, I research **cognitive psychology**, **social engineering**, **history**, **logic**, and **philosophy** to better understand the human systems that technology serves.
+I ship in public: every repository linked above is a working build with documentation, tests and deployment scripts — no vaporware.
 
 ---
 
@@ -35,9 +37,10 @@ Beyond code, I research **cognitive psychology**, **social engineering**, **hist
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full--Stack_Web_&_App-8B5CF6?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Specialist_(NLP_/_GenAI)-EC4899?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/PLC_Programmer_(LD_&_ST)-F59E0B?style=for-the-badge&logo=siemens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cyber_Security_Researcher-EF4444?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/API_&_Backend_Engineering-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_/_NLP_/_GenAI-EC4899?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/PLC_&_Industrial_F59E0B?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security_Minded_EF4444?style=for-the-badge&logo=kalilinux&logoColor=white" />
 </p>
 
 ---
@@ -50,10 +53,9 @@ Beyond code, I research **cognitive psychology**, **social engineering**, **hist
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/LD_(Ladder_Diagram)-F59E0B?style=flat-square&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/ST_(Structured_Text)-F59E0B?style=flat-square&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/LD_/_ST_(IEC_61131--3)-F59E0B?style=flat-square&logo=codeforces&logoColor=white" />
 </p>
 
 ---
@@ -66,91 +68,60 @@ Beyond code, I research **cognitive psychology**, **social engineering**, **hist
       <strong>🎨 Frontend</strong><br/>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
     </td>
     <td valign="top" width="50%">
-      <strong>📱 Mobile</strong><br/>
+      <strong>📱 Mobile & Desktop</strong><br/>
       <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <strong>🖥️ Desktop</strong><br/>
       <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black" />
       <img src="https://img.shields.io/badge/WPF_/_MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
     </td>
+  </tr>
+  <tr>
     <td valign="top">
       <strong>⚙️ Backend</strong><br/>
-      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-      <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
       <img src="https://img.shields.io/badge/Go_Gin_/_Fiber-00ADD8?style=flat-square&logo=go&logoColor=white" />
-      <img src="https://img.shields.io/badge/C%2B%2B_REST_APIs-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/WebSockets_&_JWT-black?style=flat-square&logo=websockets&logoColor=white" />
+    </td>
+    <td valign="top">
+      <strong>🗄️ Database</strong><br/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <strong>🗄️ Database</strong><br/>
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+      <strong>🧠 AI / ML</strong><br/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+      <img src="https://img.shields.io/badge/LLM_Infra_&_Routing-1C3C3C?style=flat-square&logo=openai&logoColor=white" />
     </td>
     <td valign="top">
-      <strong>🧠 AI / ML</strong><br/>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+      <strong>🧰 Tools</strong><br/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/Newman-CI-FF6C37?style=flat-square" />
+      <img src="https://img.shields.io/badge/Linux_CLI-FCC624?style=flat-square&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
     </td>
   </tr>
 </table>
 
 ---
 
-### ⚙️ Tools & Environment
+### 🔐 Security practice
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/WSL2_Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Webpack_/_Vite-8DD6F9?style=flat-square&logo=webpack&logoColor=black" />
-  <img src="https://img.shields.io/badge/npm_/_yarn-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux_CLI-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-FF6347?style=flat-square&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-</p>
-
----
-
-### 🧠 Research & Interests
-
-> *"I thrive on challenges that blur the line between software and the real world."*
-
-| Domain | Focus Areas |
-| :--- | :--- |
-| 🔐 **Cyber Security** | Physical Pentesting, Social Engineering, Reverse Engineering |
-| 🧩 **Cognitive Psychology** | Behavioral Analysis, Social Engineering Patterns |
-| 🏛️ **History & Philosophy** | Civilizations, Logic Systems, Critical Analysis |
-| ♟️ **Chess** | Strategic Thinking, Problem Solving |
-| 🏭 **Industrial Automation** | PLC Programming (LD & ST / IEC 61131-3) |
+Security isn't a checkbox here — it's the workflow: every repo runs **secret scanning + push protection**, dependencies are covered by **Dependabot automated fixes**, credentials are env-only, and sensitive flows (JWT rotation, RBAC, rate limiting) are implemented and *tested* in the open. Security-audit tooling (gitleaks, custom pattern scanners) is part of my routine.
 
 ---
 
@@ -158,7 +129,7 @@ Beyond code, I research **cognitive psychology**, **social engineering**, **hist
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=godde3s&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=8b5cf6&icon_color=ec4899&text_color=e4e4e7" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=godde3s&theme=tokyonight&hide_border=true&background=000000&ring=8b5cf6&fire=ec4899&currStreakLabel=8b5cf6" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=godde3s&theme=tokyonight&hide_border=true&background=000000&ring=8b5cf6&fire=ec4899&currStreakLabel=8b5cf6" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -167,14 +138,14 @@ Beyond code, I research **cognitive psychology**, **social engineering**, **hist
 
 ---
 
-### 📫 Connect with Me
+### 📫 Connect
 
 <p align="center">
   <a href="https://t.me/ZENDANBAN_BOT" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-@ZENDANBAN__BOT-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Send_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://github.com/Godde3s" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-@Godde3s-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
