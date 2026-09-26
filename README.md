@@ -1,5 +1,5 @@
 <h1 align="center">Reza Bazdar · Godde3s</h1>
-<h3 align="center">Full-Stack Engineer · AI & API Infrastructure · Industrial Automation</h3>
+<h3 align="center">Full-Stack Engineer · AI & API Infrastructure · IoT & Industrial Automation</h3>
 
 <p align="center">
   <a href="https://godde3s.github.io/OR/"><img src="https://img.shields.io/badge/Portfolio-OR-0ea5e9?style=for-the-badge" alt="OR portfolio" /></a>
@@ -27,7 +27,7 @@
 
 ### 🧬 About Me
 
-I'm a **generalist who dives deep**. My work sits at the intersection of **modern web engineering**, **AI infrastructure** and **industrial automation**. I architect cross-platform systems, build NLP/GenAI services, program PLCs — and I approach every problem with a security researcher's mindset: threat-model first, then build.
+I'm a **generalist who dives deep**. My work sits at the intersection of **modern web engineering**, **AI infrastructure** and **IoT & industrial automation**. I architect cross-platform systems — **web platforms, mobile apps (React Native / Expo) and desktop apps (Tauri / Electron)** — build NLP/GenAI services, program PLCs in **LD & ST (IEC 61131-3)** — and I approach every problem with a security researcher's mindset: threat-model first, then build.
 
 I ship in public: every repository linked above is a working build with documentation, tests and deployment scripts — no vaporware.
 
@@ -39,7 +39,7 @@ I ship in public: every repository linked above is a working build with document
   <img src="https://img.shields.io/badge/Full--Stack_Web_&_App-8B5CF6?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/API_&_Backend_Engineering-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/AI_/_NLP_/_GenAI-EC4899?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/PLC_&_Industrial_F59E0B?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/PLC_/_IoT_—_LD_/_ST_F59E0B?style=for-the-badge&logo=codeforces&logoColor=white" />
   <img src="https://img.shields.io/badge/Security_Minded_EF4444?style=for-the-badge&logo=kalilinux&logoColor=white" />
 </p>
 
@@ -76,6 +76,7 @@ I ship in public: every repository linked above is a working build with document
       <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
       <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white" />
       <img src="https://img.shields.io/badge/WPF_/_MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
     </td>
   </tr>
