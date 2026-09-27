@@ -15,6 +15,7 @@
 | Project | What it proves |
 |---|---|
 | [![TaskFlow API](https://img.shields.io/badge/⚙️_TaskFlow_API-FastAPI_backend-009688?style=for-the-badge)](https://github.com/Godde3s/taskflow-api) | Production-grade REST backend — JWT rotation with reuse detection, RBAC, rate limiting, pytest suite, Docker Compose |
+| [![Peregrine](https://img.shields.io/badge/🦅_Peregrine-Expo_AI_console-FF9F0A?style=for-the-badge)](https://github.com/Godde3s/peregrine) | Native-feeling mobile AI console — Expo 57 + RN 0.86 + TS strict, streaming SSE chat, bring-your-own-endpoint, Keychain-stored keys, design-law compliance matrix |
 | [![OmniRouter](https://img.shields.io/badge/🌐_OmniRouter-Go_model_router-00ADD8?style=for-the-badge)](https://github.com/Godde3s/omnirouter) | One OpenAI-compatible endpoint over GLM + Qwen + DeepSeek + custom APIs — load balancing, failover, streaming |
 | [![Goftego](https://img.shields.io/badge/💬_Goftego-chat_platform-4facfe?style=for-the-badge)](https://github.com/Godde3s/goftego) | Full-stack product: Node.js API + realtime WebSockets + Vue 3 SPA + SQLite + Docker, bilingual RTL |
 | [![VeilChat](https://img.shields.io/badge/🔒_VeilChat-P2P_E2E_messenger-667eea?style=for-the-badge)](https://github.com/Godde3s/veilchat) | Cryptographic engineering: X25519 handshake, ChaCha20-Poly1305, forward secrecy — auditable pure Python |
